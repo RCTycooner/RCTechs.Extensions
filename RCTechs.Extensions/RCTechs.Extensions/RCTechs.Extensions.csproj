@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Version>0.0.1</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Contains extensions and helpermethods for various things</Description>
+    <PackageProjectUrl>https://github.com/RCTycooner/RCTechs.Extensions</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
